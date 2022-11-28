@@ -11,8 +11,6 @@ Success: 100%
 
 ## How to
 
-[Get Docker](https://docs.docker.com/get-docker/)
-
 Build a new image using docker build:
 ```
 docker build -t ft_server .
