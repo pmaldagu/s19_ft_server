@@ -28,9 +28,10 @@ docker ps -a
 
 ## Usage
 
-Build and run the image and go to localhost address in your favorite browser.
+Docker need to be installed. Build and run the image and go to localhost address in your favorite browser.
 ## References
 
+- [Get Docker](https://docs.docker.com/get-docker/)
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 - [Docker CLI](https://docs.docker.com/engine/reference/run/)
 - [Nginx http core mdule](https://nginx.org/en/docs/http/ngx_http_core_module.html#http)
