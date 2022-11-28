@@ -1,4 +1,4 @@
-# Ft_server
+# ft_server
 
 19 Coding School project (42 Network)
 
