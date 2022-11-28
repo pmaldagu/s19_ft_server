@@ -25,6 +25,10 @@ Verify if running:
 ```
 docker ps -a
 ```
+
+## Usage
+
+Build and run the image and go to localhost address in your favorite browser.
 ## References
 
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
