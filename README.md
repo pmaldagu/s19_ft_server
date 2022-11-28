@@ -21,7 +21,7 @@ Run the image and expose port:
 ```
 docker run --name ft_server -p 8080:80
 ```
-Verify if running
+Verify if running:
 ```
 docker ps -a
 ```
